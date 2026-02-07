@@ -1,0 +1,9 @@
+## Pipeline Stuff
+
+  - task: Bash@3
+  displayName: "Get Agent's IP"
+  inputs:
+    targetType: "filePath"
+    filePath: "$(System.DefaultWorkingDirectory)/${{parameters.SCRIPT_FOLDER}}/whatismyip.sh"
+    failOnStderr: true
+    workingDirectory: "$(System.DefaultWorkingDirectory)/${{parameters.WORKING_DIR}}"
