@@ -11,7 +11,7 @@ My personal job cheat sheets
 
 [Kubectl](sheets/kubectl-cheat-sheet.md)
 
-[Sveltos](sheets/terraform-cheat-sheet.md)
+[Sveltos](sheets/sveltos-cheat-sheet.md)
 
 [Linux](sheets/linux-cheat-sheet.md)
 
