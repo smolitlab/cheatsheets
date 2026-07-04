@@ -43,8 +43,9 @@ States created in a module with a for each loop
 
 #### Variable Loading Precedence
 An interesting thing to ponder is the precedence of the various methods of providing variable values.
-Variable loading precedence
-![alt text]()
+Variable loading precedence (von unten nach oben, spätere überschreiben frühere):
+
+![Variable loading precedence](terraform-variable-precedence.png)
 
 
 ## Links

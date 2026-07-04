@@ -16,3 +16,7 @@ My personal job cheat sheets
 [Linux](sheets/linux-cheat-sheet.md)
 
 [Terraform](sheets/terraform-cheat-sheet.md)
+
+### Dotfiles / Shell-Setup
+
+Dotfiles (`.zshrc`, `.p10k.zsh`) und Maschinen-Bootstrap liegen zentral in [boilerplates](https://github.com/smolitlab/boilerplates) (Single Source of Truth).
